@@ -1,0 +1,81 @@
+/* h1 {
+    color: rgb(0, 195, 255);
+}
+
+h3 {
+    color: seagreen;
+    font-size: 35px;
+} */
+
+/* .block1 {
+    background-color: aqua;
+    display: inline;
+    width: 50px;height: 300px;
+    padding: 60px 60px 16px 16px;
+    margin: 60px 60px 16px 16px;
+}
+
+.block2 {
+    background-color: red;
+}
+
+.block3 {
+    background-color: blueviolet;
+} */
+
+/* .inline1 {
+    background-color: pink;
+    display: inline-block;
+    margin-right: 16px;
+}
+
+.inline2 {
+    background-color: plum;
+    display: inline-block;
+}
+
+.inline3 {
+    background-color: powderblue;
+    display: inline-block;
+}
+
+.block {
+    background-color: blue;
+    text-align: center;
+}
+
+.block2 {
+    background-color: gray;
+    padding-top: 15px;
+} */
+
+
+/* @media screen and (max-width:480px) {
+    p {
+        color: red
+    }
+
+} */
+
+/* kokokara */
+/* .inline_test {
+    width: 300px;
+    height: 300px;
+    border: 16px solid purple;
+    background-color: yellow;
+    text-align: center;
+    margin: auto;
+}
+
+span {
+    background-color: green;
+}
+
+p {
+    background-color: gray;
+} */
+
+.sunabaco {
+    background-color: red;
+    font-size: 30px;
+}
